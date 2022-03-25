@@ -14,7 +14,7 @@ function count(){
       else if(i % 5 == 0){
         console.log("Buzz")
       }   
-      console.log(i)
+      else console.log(i)
     }
   }
   count()
