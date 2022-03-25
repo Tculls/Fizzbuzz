@@ -1,0 +1,1 @@
+Practice Assignment for Web Fundamentals JavaScript Section: Language Fundamentals
